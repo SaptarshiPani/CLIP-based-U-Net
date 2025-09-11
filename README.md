@@ -5,4 +5,7 @@ Conference - . <br />
 Architecture :- <br />
 <img width="1116" height="781" alt="Image" src="https://github.com/user-attachments/assets/f3866ce7-8a5c-42b9-a458-b339becf916e" />
 <br /><br />
-Results :- <br />
+Result Table :- <br />
+<img width="846" height="472" alt="Image" src="https://github.com/user-attachments/assets/8b2f559a-5ab1-49f0-b0ab-2320f2b3a8cb" />
+<br /><br />
+Result Visualizations :- <br />
