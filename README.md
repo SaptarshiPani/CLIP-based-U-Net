@@ -8,3 +8,8 @@ Result Table :- <br />
 <img width="846" height="472" alt="Image" src="https://github.com/user-attachments/assets/8b2f559a-5ab1-49f0-b0ab-2320f2b3a8cb" />
 <br /><br />
 Result Visualizations :- <br />
+1. Segmnetation Mask Visualization on KvasirSEG Dataset :- <br />
+![Image](https://github.com/user-attachments/assets/90a90d88-e0fd-4afc-8230-a723506d7d81) <br />
+1. Segmnetation Mask Visualization on PanNuke Dataset :- <br />
+
+1. Segmnetation Mask Visualization on GlaS Dataset :- <br />
