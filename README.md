@@ -17,6 +17,7 @@ Result Visualizations :- <br />
 <br /><br />
 4. State-of-the-Art Comparison on KvasirSEG dataset. All values are in %. Bold values indicate best results. <br />
 <img width="552" height="188" alt="Image" src="https://github.com/user-attachments/assets/d7c6abac-7553-4961-9500-1d36aec99eeb" /> <br />
+<br /><br />
 References :- <br />
 [1] Zhao, Haifeng, et al. "Self‐Prompting Segment Anything Model for Few‐Shot Medical Image Segmentation." IET Computer Vision 19.1 (2025): e70040. <br />
 [2] Xu, Chen, et al. "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." Proceedings of the Asian Conference on Computer Vision. 2024. <br />
