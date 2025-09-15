@@ -14,6 +14,7 @@ Result Visualizations :- <br />
 ![Image](https://github.com/user-attachments/assets/7a921853-a761-456d-b787-75699ac6edcd) <br />
 3. Segmentation Mask Visualization on GlaS Dataset (3-shot) :- <br />
 ![Image](https://github.com/user-attachments/assets/bbd70fbc-006a-466f-9923-55b14b90290d) <br />
+<br /><br />
 4. State-of-the-Art Comparison on KvasirSEG dataset. All values are in %. Bold values indicate best results. <br />
 <img width="552" height="188" alt="Image" src="https://github.com/user-attachments/assets/d7c6abac-7553-4961-9500-1d36aec99eeb" /> <br />
 References :- <br />
