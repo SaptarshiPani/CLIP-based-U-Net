@@ -15,6 +15,6 @@ Result Visualizations :- <br />
 3. Segmentation Mask Visualization on GlaS Dataset (3-shot) :- <br />
 ![Image](https://github.com/user-attachments/assets/bbd70fbc-006a-466f-9923-55b14b90290d) <br />
 References :- <br />
-[1] Zhao, Haifeng, et al. "Self‐Prompting Segment Anything Model for Few‐Shot Medical Image Segmentation." IET Computer Vision 19.1 (2025): e70040.
-[2] Xu, Chen, et al. "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." Proceedings of the Asian Conference on Computer Vision. 2024.
+[1] Zhao, Haifeng, et al. "Self‐Prompting Segment Anything Model for Few‐Shot Medical Image Segmentation." IET Computer Vision 19.1 (2025): e70040. <br />
+[2] Xu, Chen, et al. "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." Proceedings of the Asian Conference on Computer Vision. 2024. <br />
 [3] Khadka, Rabindra, et al. "Meta-learning with implicit gradients in a few-shot setting for medical image segmentation." Computers in Biology and Medicine 143 (2022): 105227.
