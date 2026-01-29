@@ -21,4 +21,9 @@ Result Visualizations :- <br />
 References :- <br />
 [1] Zhao, Haifeng, et al. "Self‐Prompting Segment Anything Model for Few‐Shot Medical Image Segmentation." IET Computer Vision 19.1 (2025): e70040. <br />
 [2] Xu, Chen, et al. "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." Proceedings of the Asian Conference on Computer Vision. 2024. <br />
-[3] Khadka, Rabindra, et al. "Meta-learning with implicit gradients in a few-shot setting for medical image segmentation." Computers in Biology and Medicine 143 (2022): 105227.
+[3] Khadka, Rabindra, et al. "Meta-learning with implicit gradients in a few-shot setting for medical image segmentation." Computers in Biology and Medicine 143 (2022): 105227. <br />
+[5] Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, and Jiashi Feng, “Panet: Few-shot image semantic segmentation with prototype alignment,” in proceedings of the IEEE/CVF international conference on computer vision 2019, pp. 9197–9206. <br />
+[6] Haitian Yang, Degang Sun, Wen Liu, Yanshu Li, Yan Wang, and Weiqing Huang, “Asgnet: adaptive semantic gate networks for log-based anomaly diagnosis,” in International Conference on Neural Information Processing. Springer, 2023, pp. 200–212. <br />
+[7] Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, and Chunhua Shen, “Canet: Class-agnostic segmentation networks with iterative refinement and attentive few-shot learning,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2019, pp. 5217–5226. <br />
+[8] Zhifang Deng and Yangdong Wu, “Catnet: A cross attention and texture-aware network for polyp segmentation,” International Journal of Imaging Systems and Technology, vol. 34, no. 6, pp. e23220, 2024 <br />
+[9] Bo Liu, Jinwu Hu, Xiuli Bi, Weisheng Li, and Xinbo Gao, “Pgnet: Positioning guidance network for semantic segmentation of very-high-resolution remote sensing images,” Remote Sensing, vol. 14, no. 17, pp. 4219, 2022. <br />
