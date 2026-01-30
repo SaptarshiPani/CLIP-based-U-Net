@@ -23,6 +23,7 @@ Result Visualizations :- <br />
 <br /><br />
 4. State-of-the-Art Comparison on KvasirSEG dataset. All values are in %. Bold values indicate best results. <br />
 <img width="552" height="188" alt="Image" src="https://github.com/user-attachments/assets/d7c6abac-7553-4961-9500-1d36aec99eeb" /> <br />
+<img width="372" height="197" alt="Image" src="https://github.com/user-attachments/assets/fe119ac5-0964-4f92-9d2e-339fede2a23e" /> <br />
 <br /><br />
 References :- <br />
 [1] Zhao, Haifeng, et al. "Self‐Prompting Segment Anything Model for Few‐Shot Medical Image Segmentation." IET Computer Vision 19.1 (2025): e70040. <br />
@@ -32,4 +33,4 @@ References :- <br />
 [6] Haitian Yang, Degang Sun, Wen Liu, Yanshu Li, Yan Wang, and Weiqing Huang, “Asgnet: adaptive semantic gate networks for log-based anomaly diagnosis,” in International Conference on Neural Information Processing. Springer, 2023, pp. 200–212. <br />
 [7] Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, and Chunhua Shen, “Canet: Class-agnostic segmentation networks with iterative refinement and attentive few-shot learning,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2019, pp. 5217–5226. <br />
 [8] Zhifang Deng and Yangdong Wu, “Catnet: A cross attention and texture-aware network for polyp segmentation,” International Journal of Imaging Systems and Technology, vol. 34, no. 6, pp. e23220, 2024 <br />
-[9] Bo Liu, Jinwu Hu, Xiuli Bi, Weisheng Li, and Xinbo Gao, “Pgnet: Positioning guidance network for semantic segmentation of very-high-resolution remote sensing images,” Remote Sensing, vol. 14, no. 17, pp. 4219, 2022. <br />
+[9] Bo Liu, Jinwu Hu, Xiuli Bi, Weisheng Li, and Xinbo Gao, “Pgnet: Positioning guidance network for semantic segmentation of very-high-resolution remote sensing images,” Remote Sensing, vol. 14, no. 17, pp. 4219, 2022.
