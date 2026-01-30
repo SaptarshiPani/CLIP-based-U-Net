@@ -7,6 +7,9 @@ Architecture :- <br />
 Result Table :- <br />
 <img width="846" height="472" alt="Image" src="https://github.com/user-attachments/assets/8b2f559a-5ab1-49f0-b0ab-2320f2b3a8cb" />
 <br /><br />
+Computational Cost Analysis :- <br />
+<img width="885" height="138" alt="Image" src="https://github.com/user-attachments/assets/0aea6b6d-3d40-4deb-9e2e-c7850fa40de1" /> <br />
+<br /><br />
 Result Visualizations :- <br />
 1. Segmentation Mask Visualization on KvasirSEG Dataset (3-shot) :- <br />
 ![Image](https://github.com/user-attachments/assets/90a90d88-e0fd-4afc-8230-a723506d7d81) <br />
