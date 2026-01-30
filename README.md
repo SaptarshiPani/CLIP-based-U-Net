@@ -7,8 +7,11 @@ Architecture :- <br />
 Result Table :- <br />
 <img width="846" height="472" alt="Image" src="https://github.com/user-attachments/assets/8b2f559a-5ab1-49f0-b0ab-2320f2b3a8cb" />
 <br /><br />
-Computational Cost Analysis :- <br />
+Computational Cost Analysis of the Proposed Model :- <br />
 <img width="885" height="138" alt="Image" src="https://github.com/user-attachments/assets/0aea6b6d-3d40-4deb-9e2e-c7850fa40de1" /> <br />
+<br /><br />
+Hyperparameter Sensitivity Analysis of the Proposed Model :- <br />
+<img width="586" height="428" alt="Image" src="https://github.com/user-attachments/assets/4cd92032-26e2-438d-bd04-d1cbc77a12df" /> <br />
 <br /><br />
 Result Visualizations :- <br />
 1. Segmentation Mask Visualization on KvasirSEG Dataset (3-shot) :- <br />
