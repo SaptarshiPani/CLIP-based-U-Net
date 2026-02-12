@@ -2,6 +2,11 @@ Title - "Prototype learning-based Few-Shot Medical Image Segmentation Framework 
 Authors - Saptarshi Pani, Bhumika Adhya, Vyacheslav Gulvanskii, Dmitrii Kaplun, Ram Sarkar. <br />
 Conference - International Conference on Acoustics, Speech and Signal Processing 2026. <br />
 
+Code Files :- <br />
+BaseUNet.ipynb -> Code implementation of the Improved U-Net Backbone used in the study. <br />
+CLIPImproved.ipynb -> Code implementation of the Improved CLIP Backbone used in the study. <br />
+CLIPU_NetFinal1.ipynb -> Code implementation of the Proposed model used in the study. <br />
+
 Architecture :- <br />
 <img width="1116" height="781" alt="Image" src="https://github.com/user-attachments/assets/f3866ce7-8a5c-42b9-a458-b339becf916e" />
 <br /><br />
